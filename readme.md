@@ -29,4 +29,7 @@ https://github.com/lennarto/reopen-existing-tab/releases
 create release with tag v1.0.1
 download tar.gz
 shasum -a 256 ~/Downloads/v1.0.1.tar.gz
-update reopen.rb
+update reopen.rb (sha256 und url !!!)
+
+brew update
+brew upgrade reopen

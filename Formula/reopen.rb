@@ -1,8 +1,8 @@
 class Reopen < Formula
     desc "Open a URL in an existing Chrome or Safari tab"
     homepage "https://github.com/lennarto/reopen-existing-tab"
-    url "https://github.com/lennarto/reopen-existing-tab/archive/refs/tags/v1.0.1.tar.gz"
-    sha256 "f748cd1b754b759d029719fca4f56139d74154cf3f1661683520733844144058"
+    url "https://github.com/lennarto/reopen-existing-tab/archive/refs/tags/v1.0.2.tar.gz"
+    sha256 "bd153788212f09cfb58d2183b300c55f1212002fdaef0b599ea1eaa99a251fb3"
     license "MIT"
   
     depends_on "node"
