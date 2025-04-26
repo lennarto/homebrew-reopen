@@ -14,7 +14,20 @@ class Reopen < Formula
   
     def caveats
       <<~EOS
-        Scripts installed to #{opt_prefix}/scripts.
+        ✅ Successfully installed `reopen` 🔥
+  
+        Usage:
+  
+            reopen https://example.com
+            reopen safari https://example.com
+            reopen chrome https://example.com
+  
+        Default browser is Chrome unless you change it with:
+            
+            reopen standard safari
+  
+        Project page:
+        https://github.com/lennarto/reopen-existing-tab
       EOS
     end
   end
