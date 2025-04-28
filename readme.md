@@ -1,5 +1,3 @@
-# Homebrew Tap for `reopen existing tabs`
+# Homebrew Tap for `reopen existing tab`
 
-### 👉 [CLICK HERE FOR ORIGINAL REPO](https://github.com/lennarto/reopen-existing-tab) 👈
-
-##### ❌ This is **only** the Homebrew tap repository. ❌ 
+### 👉 [CLICK HERE FOR OFFICIAL REPO](https://github.com/lennarto/reopen-existing-tab) 👈
